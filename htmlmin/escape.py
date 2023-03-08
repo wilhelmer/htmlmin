@@ -27,10 +27,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import re
 
-try:
-  from html import escape
-except ImportError:
-  from cgi import escape
+from html import escape
 
 import re
 
