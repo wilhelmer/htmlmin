@@ -1,3 +1,7 @@
+0.1.13
+======
+* Removed references to the cgi module as it is being deprecated.
+
 0.1.12
 ======
 * Fix bug that can occur when minifying two pages in a row when the
