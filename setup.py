@@ -9,7 +9,7 @@ README = open(os.path.join(here, 'README.rst')).read()
 LICENSE = open(os.path.join(here, 'LICENSE')).read()
 
 setup(
-    name='htmlmin',
+    name='htmlmin2',
     version=__version__,
     license='BSD',
     description='An HTML Minifier',
