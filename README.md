@@ -2,7 +2,6 @@
 
 A configurable HTML Minifier with safety features.
 
-.. image:: https://travis-ci.org/mankyd/htmlmin.png?branch=master
-   :target: http://travis-ci.org/mankyd/htmlmin
+![](https://travis-ci.org/mankyd/htmlmin.png?branch=master)
 
 Documentation: https://htmlmin.readthedocs.io/en/latest/
