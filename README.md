@@ -1,4 +1,4 @@
-> :warning: This is a fork of htmlmin. You can install this work with `pip install htmlmin2`.
+> :warning: This is a fork of htmlmin. You can install it with `pip install htmlmin2`.
 
 A configurable HTML Minifier with safety features.
 
