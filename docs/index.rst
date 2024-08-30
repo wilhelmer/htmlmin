@@ -46,15 +46,15 @@ Install
 
 To install via pip::
 
-  pip install htmlmin 
+  pip install htmlmin2 
 
 Source Code
 ===========
 
 Source code is availble on github at
-`https://github.com/mankyd/htmlmin <https://github.com/mankyd/htmlmin>`_::
+`https://github.com/wilhelmer/htmlmin <https://github.com/wilhelmer/htmlmin>`_::
 
-  git clone git://github.com/mankyd/htmlmin.git
+  git clone git://github.com/wilhelmer/htmlmin.git
 
 Features
 ========
