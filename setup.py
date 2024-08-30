@@ -15,7 +15,7 @@ setup(
     description='An HTML Minifier',
     long_description=README,
     url='https://htmlmin.readthedocs.io/en/latest/',
-    download_url='https://github.com/mankyd/htmlmin',
+    download_url='https://github.com/wilhelmer/htmlmin',
     author='Dave Mankoff',
     author_email='mankyd@gmail.com',
     packages=find_packages(),
